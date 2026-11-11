@@ -1,0 +1,32 @@
+{
+  "channels": [
+    {
+      "name": "Action Movies",
+      "videos": [
+        {
+          "title": "My Movie Title",
+          "description": "A short summary of what this video is about.",
+          "streamUrl": "https://yourserver.com/videos/movie1.mp4",
+          "posterUrl": "https://yourserver.com/images/poster1.jpg"
+        },
+        {
+          "title": "Second Video",
+          "description": "Another video description.",
+          "streamUrl": "https://yourserver.com/videos/movie2.mp4",
+          "posterUrl": "https://yourserver.com/images/poster2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Home Videos",
+      "videos": [
+        {
+          "title": "Family Vacation",
+          "description": "Trip to the beach.",
+          "streamUrl": "https://yourserver.com/videos/beach.mp4",
+          "posterUrl": "https://yourserver.com/images/beach_thumb.jpg"
+        }
+      ]
+    }
+  ]
+}
